@@ -20,4 +20,4 @@ This Project check whether or not the person will cancel the Booking of Hotel on
 4. The _training set_ is used to train the _model_ using several types of classifiers like **Decision Tree Classifier**, **Logistic Regression**, **Random Forest Classifier**.
 5. The **Accuracy Score** for each and every model is then analyzed and a plot is plotted to see which model best fits the data. And by the analysis it was found out that **all the model** has the same accuracy score and thus we can use any model for further processing.<br><br><br>
 
-**I have used Kaggle Dataset on Hotel Booking and you can download the dataset from [here](https://www.kaggle.com/jessemostipak/hotel-booking-demand).**
+**I have used Kaggle Dataset on Hotel Booking and you can download the dataset from [here](https://www.kaggle.com/jessemostipak/hotel-booking-demand/download). You can visit their website from [here](https://www.kaggle.com/jessemostipak/hotel-booking-demand).**
